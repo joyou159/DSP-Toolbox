@@ -46,7 +46,9 @@ Desktop application for composing images by combining selected **fourier transfo
 <p align="center">
   <img src="README-Assets\Filter_design.png" alt="Interactive Filter Design" title="Interactive Filter Design" />
 </p>
+
 Desktop application for designing a custom digital filter via zero-pole placement on the z-plane.
+
 ### Key Features
 - Interactive Z-Plane Plot *(Insertion, Deletion, Dragging, Swapping, Clear Operations, Conjugates, Conjugates Control)*
 - Frequency Response Visualization *(Magnitude & Phase Responses)*
