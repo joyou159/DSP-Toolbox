@@ -43,8 +43,6 @@ Desktop application for composing images by combining selected **fourier transfo
 - Inverse Fourier Transform 
 
 ## [Interactive Filter Design](https://github.com/joyou159/Realtime_Digital_Filter_Design)
-![Demo of UI](README-Assets\Filter_design.png)
-
 <p align="center">
   <img src="README-Assets\Filter_design.png" alt="Interactive Filter Design" title="Interactive Filter Design" />
 </p>
