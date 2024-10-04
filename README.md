@@ -4,7 +4,7 @@ Welcome to the DSP-Toolbox repository! This toolbox serves as a comprehensive re
 
 # Toolbox List 
 ## [Sampling Studio](https://github.com/joyou159/Sampling-Studio)
-![Demo of UI](https://github.com/MohamedMandour10/Sampling-Studio/assets/115044826/50688bed-4c19-46b1-a77e-f32f2f5896f8)
+![Sampling Studio](https://github.com/MohamedMandour10/Sampling-Studio/assets/115044826/50688bed-4c19-46b1-a77e-f32f2f5896f8)
 
 A desktop application illustrating the signal sampling and recovery, showing the importance and validation of the **Nyquist rate.**
 
@@ -17,7 +17,7 @@ A desktop application illustrating the signal sampling and recovery, showing the
  
 ## [Signal Equalizer](https://github.com/joyou159/Signal-Equalizer)
 
-![Demo of Task3](https://github.com/MohamedMandour10/Signal-Equalizer/assets/115044826/e64d456e-9e9b-4d03-9053-2e4930367ca5)
+![Signal Equalizer](https://github.com/MohamedMandour10/Signal-Equalizer/assets/115044826/e64d456e-9e9b-4d03-9053-2e4930367ca5)
 
 Desktop application for manipulating the frequency content of a signal using **smoothing window functions.**
 
@@ -30,7 +30,7 @@ Desktop application for manipulating the frequency content of a signal using **s
 - Frequency Domain Manipulation Using Sliders  
 ## [Fourier Image Mixer](https://github.com/joyou159/Fourier-Image-Mixer)
 
-![Demo of UI](https://github.com/MohamedMandour10/Fourier-Image-Mixer/assets/115044826/6a6c859e-4838-45cb-bd8e-0db4bcea9e5f)
+![Fourier Image Mixer](https://github.com/MohamedMandour10/Fourier-Image-Mixer/assets/115044826/6a6c859e-4838-45cb-bd8e-0db4bcea9e5f)
 
 Desktop application for composing images by combining selected **fourier transform components** from other images.
 
@@ -44,6 +44,10 @@ Desktop application for composing images by combining selected **fourier transfo
 
 ## [Interactive Filter Design](https://github.com/joyou159/Realtime_Digital_Filter_Design)
 ![Demo of UI](README-Assets\Filter_design.png)
+
+<p align="center">
+  <img src="README-Assets\Filter_design.png" alt="Interactive Filter Design" title="Interactive Filter Design" />
+</p>
 
 ### Key Features
 - Interactive Z-Plane Plot *(Insertion, Deletion, Dragging, Swapping, Clear Operations, Conjugates, Conjugates Control)*
